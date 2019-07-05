@@ -1,7 +1,7 @@
-#Jquery Data Filter JS
+# Jquery Data Filter JS
 Filter object by data or data has specific data value
 
-##Usage:
+## Usage:
 
 #### HTML
 ```html
