@@ -22,6 +22,9 @@
 
 #### JAVASCRIPT
 ```javascript
+    $(".filter-me").filterData("person").length
+    //Output: 0
+    
     $(".filter-me").filterData("age").length
     //Output: 3
 
@@ -29,7 +32,7 @@
     //Output: 1
 
     $(".filter-me").filterData("city").length
-    //Output: 3
+    //Output: 6
 
     $(".filter-me").filterData("city", "São Paulo").length
     //Output: 2
