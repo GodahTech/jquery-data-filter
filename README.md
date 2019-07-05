@@ -1,6 +1,8 @@
 # Jquery Data Filter JS
-Filter object by data or data has specific data value
-
+-- Filter object by data or data has specific data value
+-- Author Godahtech | Soluções Digitais - Roberto W. Godoy ::godoy::
+-- Version 1.0.0
+ 
 ## Usage:
 
 #### HTML
