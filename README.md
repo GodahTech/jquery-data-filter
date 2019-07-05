@@ -22,6 +22,8 @@
 
 #### JAVASCRIPT
 ```javascript
+$( document ).ready(function() {
+
     $(".filter-me").filterData("person").length
     //Output: 0
     
@@ -36,4 +38,5 @@
 
     $(".filter-me").filterData("city", "São Paulo").length
     //Output: 2
+});
 ```
