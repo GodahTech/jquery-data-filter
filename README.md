@@ -7,17 +7,35 @@
 
 #### HTML
 ```html
-<div>
-    <p class="filter-me" data-age="12">Henrique, age 12</p>
-    <p class="filter-me" data-age="14">Raquel, age 14</p>
-    <p class="filter-me" data-age="14">Godoy, age 14</p>
-    <p class="filter-me" data-city="São Paulo">Godoy</p>
-    <p class="filter-me" data-city="Paraíba">Henrique</p>
-    <p class="filter-me" data-city="Paraíba">Goreth</p>
-    <p class="filter-me" data-city="Paraíba">Iracy</p>
-    <p class="filter-me" data-city="Paraíba">Raquel</p>
-    <p class="filter-me" data-city="São Paulo">Leandro</p>
-<div>
+<div id="person-list">
+    <p class="filter-me" data-age="12">
+        Henrique, age 12
+    </p>
+    <p class="filter-me" data-age="14">
+        Raquel, age 14
+    </p>
+    <p class="filter-me" data-age="14">
+        Godoy, age 14
+    </p>
+    <p class="filter-me" data-city="São Paulo">
+        Godoy
+    </p>
+    <p class="filter-me" data-city="Paraíba">
+        Henrique
+    </p>
+    <p class="filter-me" data-city="Paraíba">
+        Goreth
+    </p>
+    <p class="filter-me" data-city="Paraíba">
+        Iracy
+    </p>
+    <p class="filter-me" data-city="Paraíba">
+        Raquel
+    </p>
+    <p class="filter-me" data-city="São Paulo">
+        Leandro
+    </p>
+</div>
 ```
 
 #### JAVASCRIPT
