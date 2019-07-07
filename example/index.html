@@ -1,12 +1,11 @@
-# Jquery Data Filter JS
-<p>Filter object by data or data has specific data value</p>
-<p>Author Godahtech | Soluções Digitais - Roberto W. Godoy</p>
-<b>Version 1.0.0</b>
- 
-## Usage:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>jQuery Data Filter JS</title>
 
-#### HTML
-```html
+</head>
+<body>
 <div id="person-list">
     <p class="filter-me" data-age="12">
         Henrique, age 12
@@ -36,10 +35,12 @@
         Leandro
     </p>
 </div>
-```
 
-#### JAVASCRIPT
-```javascript
+<script src="../node_modules/jquery/dist/jquery.min.js"></script>
+<script src="../dist/jquery-data-filter.js"></script>
+
+<script type="text/javascript">
+
     $(document).ready(function () {
 
         console.log($(".filter-me").filterData("person").length);
@@ -65,4 +66,6 @@
         //Output: Raquel, age 14
 
     });
-```
+</script>
+</body>
+</html>
