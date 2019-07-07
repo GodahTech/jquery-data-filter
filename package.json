@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/godoyrw/jquery-data-filter/issues"
   },
-  "homepage": "https://godahtech.com.br"
+  "homepage": "https://godahtech.com.br",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
