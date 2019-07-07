@@ -1,4 +1,4 @@
 #jQuery Data Filter JS - Git Ignore
 
 # Ignore node_modules folder
-node_modules
+/.idea/*
