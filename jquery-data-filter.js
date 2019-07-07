@@ -1,7 +1,7 @@
 /**
  Jquery Data Filter JS
  @description Filter object by data or data has specific data value
- @author Godahtech | Soluções Digitais - Roberto W. Godoy ::godoy::
+ @author Godahtech | Soluções Digitais - Roberto W. Godoy
  @version 1.0.0
  @url https://github.com/godoyrw/jquery-data-filter
  **/
@@ -19,7 +19,7 @@
          * Self element
          * @type {jQuery}
          */
-        let $self = this;
+        var $self = this;
 
         if (typeof val === 'undefined') {
             return $self.filter(
