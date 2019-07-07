@@ -60,7 +60,6 @@
         console.log($(".filter-me").filterData("city", "São Paulo").text());
         //Output: Godoy, Leandro
 
-
         console.log($(".filter-me").filterData("age", 14).first().text());
         //Output: Raquel, age 14
 

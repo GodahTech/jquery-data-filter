@@ -2,7 +2,129 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="49d611cf-319a-42f3-85cf-b5629b514bee" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/uglifyjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/align-text/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/align-text/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/align-text/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/align-text/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/camelcase/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/camelcase/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/camelcase/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/camelcase/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/center-align/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/center-align/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/center-align/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/center-align/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/center-align/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/.coveralls.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/cliui/test/cliui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/decamelize/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/decamelize/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/decamelize/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/decamelize/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-buffer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-buffer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-buffer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-buffer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/is-buffer/test/basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kind-of/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kind-of/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kind-of/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/kind-of/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lazy-cache/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lazy-cache/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lazy-cache/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/lazy-cache/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/longest/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/longest/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/longest/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/longest/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/repeat-string/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/repeat-string/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/repeat-string/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/repeat-string/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/right-align/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/right-align/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/right-align/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/right-align/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/dist/source-map.debug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/dist/source-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/dist/source-map.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/dist/source-map.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/array-set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/base64-vlq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/binary-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/mapping-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/quick-sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map-consumer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-map-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/source-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/lib/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/source-map/source-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/bin/extract-props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/bin/uglifyjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/lib/ast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/lib/compress.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/lib/mozilla-ast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/lib/output.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/lib/propmangle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/lib/scope.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/lib/sourcemap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/lib/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/tools/domprops.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/tools/exports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/tools/node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-js-es6/tools/props.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/uglify-to-browserify/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/window-size/LICENSE-MIT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/window-size/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/window-size/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/window-size/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wordwrap/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wordwrap/README.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wordwrap/example/center.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wordwrap/example/meat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wordwrap/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wordwrap/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wordwrap/test/break.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wordwrap/test/idleness.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/wordwrap/test/wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs/completion.sh.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs/lib/completion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs/lib/parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs/lib/usage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs/lib/validation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/yargs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +138,7 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dist/jquery-data-filter.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -26,11 +148,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
               <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="371">
+                <caret line="61" selection-start-line="61" selection-end-line="61" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -74,8 +208,8 @@
         <option value="$PROJECT_DIR$/authors.txt" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/example/index.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -88,7 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,6 +242,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -152,24 +286,19 @@
       <option name="presentableId" value="Default" />
       <updated>1562517688928</updated>
       <workItem from="1562517690187" duration="3003000" />
+      <workItem from="1562521784863" duration="38000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3216000" />
+    <option name="totallyTimeSpent" value="3545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1670224" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32944915" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -177,17 +306,22 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.28495762" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/authors.txt">
+    <entry file="file://$PROJECT_DIR$/AUTHORS.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
@@ -229,23 +363,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="539">
-            <caret line="66" column="7" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="819">
-          <caret line="39" column="53" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dist/jquery-data-filter.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -264,6 +381,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="39" column="53" selection-start-line="39" selection-start-column="53" selection-end-line="39" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="371">
+            <caret line="61" selection-start-line="61" selection-end-line="61" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
