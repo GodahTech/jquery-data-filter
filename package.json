@@ -1,0 +1,25 @@
+{
+  "name": "jquery-data-filter",
+  "description": "Filter object by data or data has specific data value",
+  "version": "1.0.0",
+  "main": "/dist/jquery-data-filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/godoyrw/jquery-data-filter"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "browser",
+    "library"
+  ],
+  "author": "Godahtech | Soluções Digitais - Roberto W. Godoy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/godoyrw/jquery-data-filter/issues"
+  },
+  "homepage": "https://godahtech.com.br"
+}
