@@ -1,12 +1,16 @@
 # Jquery Data Filter JS
-<p>Filter object by data or data has specific data value</p>
-<p>Author Godahtech | Soluções Digitais - Roberto W. Godoy</p>
+<p>Filtrar objeto pelo atributo '.data' ou dados que possuem valor do atributo específico.</p>
+<p>Filter object by '.data' attribute or data that has specific attribute value.</p>
+<p>Godahtech | Soluções Digitais - Roberto W. Godoy</p>
 <b>Version 1.0.0</b>
 
 # Zero Vulnerabilidades
 [![Known Vulnerabilities](https://snyk.io/test/github/godoyrw/jquery-data-filter/badge.svg?targetFile=package.json)](https://snyk.io/test/github/godoyrw/jquery-data-filter?targetFile=package.json)
 
-## Usage:
+# Instalação
+npm i jquery-data-filter-js --save
+
+## Usando:
 
 #### HTML
 ```html
