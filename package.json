@@ -1,10 +1,9 @@
 {
-  "name": "jquery-data-filter",
+  "name": "jquery-data-filter-js",
   "version": "1.0.0",
   "description": "Filter object by data or data has specific data value",
   "main": "/dist/jquery-data-filter.js",
   "directories": {
-    "dist": "dist",
     "example": "example"
   },
   "scripts": {
@@ -12,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/godoyrw/jquery-data-filter.git"
+    "url": "git+https://github.com/godoyrw/jquery-data-filter.git"
   },
   "keywords": [
     "jquery",
@@ -28,5 +27,6 @@
   "homepage": "https://github.com/godoyrw/jquery-data-filter#readme",
   "dependencies": {
     "jquery": "^3.4.1"
-  }
+  },
+  "devDependencies": {}
 }
