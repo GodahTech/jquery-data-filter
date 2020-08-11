@@ -15,23 +15,7 @@
 ```bash
 npm i jquery-data-filter-js
 ```
-language: node_js
-node_js:
-- "9"
 
-deploy:
-  provider: script
-  script: "cp .npmrc.template $HOME/.npmrc && npm publish"
-  skip_cleanup: true
-  on:
-    tags: true
-
-notifications:
-  email:
-    recipients:
-    - julio@packagecloud.io
-    on_success: change
-    on_failure: always
 ## 🔨 Usando:
 
 ### HTML
