@@ -4,7 +4,7 @@
   "description": "Filter object by data or data has specific data value",
   "main": "/dist/jquery-data-filter.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo Builded!"
   },
   "repository": {
     "type": "git",
