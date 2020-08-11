@@ -46,7 +46,7 @@
         }
 
        /**
-        * Update data
+        * Update data match by val
         */
         $self.filter(
             function () {
@@ -54,6 +54,9 @@
             }
         ).data(prop, newval);
 
+        /**
+         * Return match by newval
+         */
         return $(this).filterData(prop, newval);
     };
 
