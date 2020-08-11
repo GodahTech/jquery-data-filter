@@ -10,6 +10,9 @@
     <p class="filter-me" data-age="12">
         Henrique, age 12
     </p>
+    <p class="filter-me" data-age="15">
+        Noop, age 15
+    </p>
     <p class="filter-me" data-age="14">
         Raquel, age 14
     </p>
@@ -47,10 +50,22 @@
         //Output: 0
 
         console.log($(".filter-me").filterData("age").length);
-        //Output: 3
+        //Output: 4
 
         console.log($(".filter-me").filterData("age", 12).length);
         //Output: 1
+        
+        console.log($(".filter-me").filterData("age", 14).first().text());
+        //Output: Raquel, age 14
+
+        console.log($(".filter-me").filterData("age", 14, 10).first().text("Raquel, age 10").text());
+        //Output: Raquel, age 10
+        
+        console.log($(".filter-me").filterData("age", 10).length);
+        //Output: 2
+        
+        console.log($(".filter-me").filterData("age", 14).length);
+        //Output: 0
 
         console.log($(".filter-me").filterData("city").length);
         //Output: 6
@@ -61,9 +76,12 @@
         console.log($(".filter-me").filterData("city", "São Paulo").text());
         //Output: Godoy, Leandro
 
+        console.log($(".filter-me").filterData("age", 10).first().text());
+        //Output: Raquel, age 10
 
-        console.log($(".filter-me").filterData("age", 14).first().text());
-        //Output: Raquel, age 14
+
+        console.log($(".filter-me").filterData("city", "Paraíba").eq(2).text());
+        //Output: Iracy
 
     });
 </script>

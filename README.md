@@ -1,8 +1,8 @@
 # GodahTech - Jquery Data Filter JS
-<p>Filtrar objeto pelo atributo '.data' ou dados que possuem valor do atributo específico.</p>
-<p>Filter object by '.data' attribute or data that has specific attribute value.</p>
+<p>Filtrar e atualizar o elemento pelo atributo '.data' ou dados que possuem valor do atributo específico.</p>
+<p>Filter and update the element by the '.data' attribute or data that has a specific attribute value.</p>
 <p>Godahtech | Soluções Digitais - Roberto W. Godoy</p>
-<b>Version 1.0.6</b>
+<b>Version 1.0.7</b>
 
 ## 🛡 Pode Confiar
 [![godahtech](https://img.shields.io/endpoint?url=https%3A%2F%2Fgodahtech.com.br%2Fgodahshield.json%3Furl%3Dhttps%3A%2Fgodahtech.com.br%2F)](http://godahtech.com.br/) [![Known Vulnerabilities](https://snyk.io/test/github/godoyrw/jquery-data-filter/badge.svg?targetFile=package.json)](https://snyk.io/test/github/godoyrw/jquery-data-filter?targetFile=package.json) [![npm](https://img.shields.io/npm/v/jquery-data-filter-js/latest?registry_uri=https%3A%2F%2Fregistry.npmjs.com%2Fjquery-data-filter-js&style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js) [![Build Status](https://travis-ci.com/godoyrw/jquery-data-filter.svg?branch=master)](https://travis-ci.com/godoyrw/jquery-data-filter) 
@@ -20,6 +20,9 @@ npm i jquery-data-filter-js
 <div id="person-list">
     <p class="filter-me" data-age="12">
         Henrique, age 12
+    </p>
+    <p class="filter-me" data-age="15">
+        Noop, age 15
     </p>
     <p class="filter-me" data-age="14">
         Raquel, age 14
@@ -56,10 +59,22 @@ npm i jquery-data-filter-js
         //Output: 0
 
         console.log($(".filter-me").filterData("age").length);
-        //Output: 3
+        //Output: 4
 
         console.log($(".filter-me").filterData("age", 12).length);
         //Output: 1
+        
+        console.log($(".filter-me").filterData("age", 14).first().text());
+        //Output: Raquel, age 14
+
+        console.log($(".filter-me").filterData("age", 14, 10).first().text("Raquel, age 10").text());
+        //Output: Raquel, age 10
+        
+        console.log($(".filter-me").filterData("age", 10).length);
+        //Output: 2
+        
+        console.log($(".filter-me").filterData("age", 14).length);
+        //Output: 0
 
         console.log($(".filter-me").filterData("city").length);
         //Output: 6
@@ -70,8 +85,11 @@ npm i jquery-data-filter-js
         console.log($(".filter-me").filterData("city", "São Paulo").text());
         //Output: Godoy, Leandro
 
-        console.log($(".filter-me").filterData("age", 14).first().text());
-        //Output: Raquel, age 14
+        console.log($(".filter-me").filterData("age", 10).first().text());
+        //Output: Raquel, age 10
+
+        console.log($(".filter-me").filterData("city", "Paraíba").eq(2).text());
+        //Output: Iracy
 
     });
 ```
@@ -97,3 +115,11 @@ $ git clone https://github.com/godoyrw/jquery-data-filter.git
 $ cd jquery-data-filter
 $ npm install
 $ npm start
+```
+## ❤️ Licensa e Log de Atualizações
+O Jquery Data Filter JS está disponível gratuitamente sob a licença MIT.<br/> Use-o, aprenda com ele, bifurque-o, melhore-o, mude-o, adapte-o às suas necessidades.
+<hr/>
+### <b>Version 1.0.7@last</b> - Filtrar e atualizar o elemento pelo atributo '.data' ou dados que possuem valor do atributo específico.
+<hr/>
+### <b>Version 1.0.0</b> - Filtrar o elemento pelo atributo '.data' ou dados que possuem valor do atributo específico.
+<hr/>
