@@ -1,4 +1,4 @@
 #jQuery Data Filter JS - Git Ignore
 
 # Ignore PHPStorm files folder
-.idea/
+.github/workflows
