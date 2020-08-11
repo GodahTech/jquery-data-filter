@@ -2,7 +2,7 @@
 <p>Filtrar objeto pelo atributo '.data' ou dados que possuem valor do atributo específico.</p>
 <p>Filter object by '.data' attribute or data that has specific attribute value.</p>
 <p>Godahtech | Soluções Digitais - Roberto W. Godoy</p>
-<b>Version 1.0.1</b>
+<b>Version 1.0.5</b>
 
 ## 🛡 Pode Confiar
 [![godahtech](https://img.shields.io/endpoint?url=https%3A%2F%2Fgodahtech.com.br%2Fgodahshield.json%3Furl%3Dhttps%3A%2Fgodahtech.com.br%2F)](http://godahtech.com.br/) [![Known Vulnerabilities](https://snyk.io/test/github/godoyrw/jquery-data-filter/badge.svg?targetFile=package.json)](https://snyk.io/test/github/godoyrw/jquery-data-filter?targetFile=package.json) [![npm](https://img.shields.io/npm/v/jquery-data-filter-js/latest?registry_uri=https%3A%2F%2Fregistry.npmjs.com%2Fjquery-data-filter-js&style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js) [![Build Status](https://travis-ci.com/godoyrw/jquery-data-filter.svg?branch=master)](https://travis-ci.com/godoyrw/jquery-data-filter)
