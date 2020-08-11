@@ -8,7 +8,8 @@
     "example": "example"
   },
   "scripts": {
-    "test": "echo Builded!"
+    "test": "echo builded!",
+    "minify": "minify dist/jquery-data-filter.js > dist/jquery-data-filter.min.js"
   },
   "repository": {
     "type": "git",
