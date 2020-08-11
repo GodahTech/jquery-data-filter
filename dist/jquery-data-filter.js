@@ -3,7 +3,7 @@
  @description Filter object by data or data has specific data value
 <<<<<<< HEAD
  @author Godahtech | Soluções Digitais - Roberto W. Godoy
- @version 1.0.5
+ @version 1.0.6
  @url https://github.com/godoyrw/jquery-data-filter
  **/
 
