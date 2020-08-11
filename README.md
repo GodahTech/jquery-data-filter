@@ -7,8 +7,15 @@
 
 ## 🛡 Pode Confiar
 
-[link](https://google.com.br){:target="\_blank"}
-[![Known Vulnerabilities](https://snyk.io/test/github/godoyrw/jquery-data-filter/badge.svg?targetFile=package.json)](https://snyk.io/test/github/godoyrw/jquery-data-filter?targetFile=package.json) [![npm](https://img.shields.io/npm/v/jquery-data-filter-js/latest?registry_uri=https%3A%2F%2Fregistry.npmjs.com%2Fjquery-data-filter-js&style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js) [![godahtech](https://img.shields.io/endpoint?url=https%3A%2F%2Fgodahtech.com.br%2Fgodahshield.json%3Furl%3Dhttps%3A%2Fgodahtech.com.br%2F)](http://godahtech.com.br/)
+<a id="Known Vulnerabilities" target="_blank" href="https://snyk.io/test/github/godoyrw/jquery-data-filter?targetFile=package.json">
+    <img src="https://snyk.io/test/github/godoyrw/jquery-data-filter/badge.svg?targetFile=package.json">
+</a>
+<a id="NPM Package" target="_blank" href="https://www.npmjs.com/package/jquery-data-filter-js">
+    <img src="https://img.shields.io/npm/v/jquery-data-filter-js/latest?registry_uri=https%3A%2F%2Fregistry.npmjs.com%2Fjquery-data-filter-js&style=flat-square">
+</a>
+<a id="Known Vulnerabilities" target="_blank" href="http://godahtech.com.br/">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fgodahtech.com.br%2Fgodahshield.json%3Furl%3Dhttps%3A%2Fgodahtech.com.br%2F">
+</a>
 
 ## 📦 Instalação
 
@@ -110,13 +117,3 @@ $ cd jquery-data-filter
 $ npm install
 $ npm start
 ```
-
-<script
-function externalLinks() { 
-    for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) { 
-        var b = c[a]; 
-        b.getAttribute("href") && b.hostname !== location.hostname && (b.target = "_blank") 
-    } 
-} ; 
-externalLinks();
-></script>
