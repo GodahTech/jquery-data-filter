@@ -116,7 +116,7 @@ $ cd jquery-data-filter
 $ npm install
 $ npm start
 ```
-## ❤️ Licensa e Log de Atualizações
+## ❤️ Licença e Log de Atualizações
 O Jquery Data Filter JS está disponível gratuitamente sob a licença MIT.<br/> Use-o, aprenda com ele, bifurque-o, melhore-o, mude-o, adapte-o às suas necessidades.
 <hr/>
 ### <b>Version 1.0.7@last</b> - Filtrar e atualizar o elemento pelo atributo '.data' ou dados que possuem valor do atributo específico.
