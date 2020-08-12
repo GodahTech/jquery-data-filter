@@ -9,7 +9,8 @@
   },
   "scripts": {
     "test": "echo builded!",
-    "minify": "minify dist/jquery-data-filter.js > dist/jquery-data-filter.min.js"
+    "minify": "minify dist/jquery-data-filter.js > dist/jquery-data-filter.min.js",
+    "get-version": "echo $npm_package_version"
   },
   "repository": {
     "type": "git",
