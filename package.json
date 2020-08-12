@@ -1,6 +1,6 @@
 {
   "name": "jquery-data-filter-js",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Filter object by data or data has specific data value",
   "main": "/dist/jquery-data-filter.js",
   "directories": {
