@@ -1,8 +1,8 @@
 /**
  Jquery Data Filter JS
- @description Filter object by data or data has specific data value
+ @description Filter/Update attribute data by specific data value
  @author Godahtech | Soluções Digitais - Roberto W. Godoy
- @version 1.0.9 1.0.7
+ @version 1.0.8
  @url https://github.com/godoyrw/jquery-data-filter
  **/
 
