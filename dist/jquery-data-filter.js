@@ -2,7 +2,7 @@
  Jquery Data Filter JS
  @description Filter object by data or data has specific data value
  @author Godahtech | Soluções Digitais - Roberto W. Godoy
- @version 1.0.7
+ @version ${VERSION}
  @url https://github.com/godoyrw/jquery-data-filter
  **/
 
