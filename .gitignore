@@ -3,3 +3,6 @@
 # Ignore PHPStorm files folder
 .github/workflows
 release.sh
+github
+github.pub
+.env
