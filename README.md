@@ -1,16 +1,16 @@
 # GodahTech - Jquery Data Filter JS
 <p>Filtrar e atualizar o elemento pelo atributo '.data' ou dados que possuem valor do atributo específico.</p>
 <p>Filter and update the element by the '.data' attribute or data that has a specific attribute value.</p>
-<p>Godahtech | Soluções Digitais - Roberto W. Godoy</p>
-<b>Version 1.0.8</b>
+<p>Godahtech | Soluções Digitais - Roberto W. Godoy.</p>
+<b>Version 1.0.9.<b>
 
 ## 🛡 Pode Confiar
 [![godahtech](https://img.shields.io/endpoint?url=https%3A%2F%2Fgodahtech.com.br%2Fgodahshield.json%3Furl%3Dhttps%3A%2Fgodahtech.com.br%2F)](http://godahtech.com.br/) 
 [![Known Vulnerabilities](https://snyk.io/test/github/godoyrw/jquery-data-filter/badge.svg?targetFile=package.json)](https://snyk.io/test/github/godoyrw/jquery-data-filter?targetFile=package.json)
 [![GitHub issues](https://img.shields.io/github/issues/godoyrw/jquery-data-filter?style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
 [![Build Status](https://travis-ci.com/godoyrw/jquery-data-filter.svg?branch=master)](https://travis-ci.com/godoyrw/jquery-data-filter)
-[![GitHub file size in bytes](https://img.shields.io/github/size/godoyrw/jquery-data-filter/dist/jquery-data-filter.1.0.8.min.js?label=size%20min.js&style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
-[![GitHub file size in bytes](https://img.shields.io/github/size/godoyrw/jquery-data-filter/dist/jquery-data-filter.1.0.8.js?style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
+[![GitHub file size in bytes](https://img.shields.io/github/size/godoyrw/jquery-data-filter/dist/jquery-data-filter.1.0.9.min.js?label=size%20min.js&style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
+[![GitHub file size in bytes](https://img.shields.io/github/size/godoyrw/jquery-data-filter/dist/jquery-data-filter.1.0.9.min.js?style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
 
 [![Website](https://img.shields.io/website?style=flat-square&url=http%3A%2F%2Fgodahtech.com.br)](http://godahtech.com.br/)
 ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/godoyrw/jquery-data-filter/jquery?style=flat-square)
@@ -130,9 +130,20 @@ $ npm start
 ```
 ## ❤️ Licença e Log de Atualizações
 O Jquery Data Filter JS está disponível gratuitamente sob a licença MIT.<br/> Use-o, aprenda com ele, bifurque-o, melhore-o, mude-o, adapte-o às suas necessidades.
-<hr/>
-- <b>Version 1.0.7@last</b> - Filtrar e atualizar o elemento pelo atributo '.data' ou dados que possuem valor do atributo específico.
+
 <hr/>
 
-- <b>Version 1.0.0</b> - Filtrar o elemento pelo atributo '.data' ou dados que possuem valor do atributo específico.
+- <b>Version 1.0.9@last</b> 
+    - Adicionado versionamento separado na pasta "./dist", min.js e min.js.map para debugs.
+    - Update o elemento o atributo '.data' ou dados que possuem valor do atributo específico.
+    - Filtrar o elemento pelo atributo '.data' ou dados que possuem valor do atributo específico.    
+<hr/>
+
+- <b>Version 1.0.8</b>
+    - Update o elemento o atributo '.data' ou dados que possuem valor do atributo específico.
+    - Filtrar o elemento pelo atributo '.data' ou dados que possuem valor do atributo específico.    
+<hr/>
+
+- <b>Version 1.0.7</b> 
+    - Filtrar o elemento pelo atributo '.data' ou dados que possuem valor do atributo específico.
 <hr/>
