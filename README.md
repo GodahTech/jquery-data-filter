@@ -5,19 +5,19 @@
 <b>Version 1.0.9.<b>
 
 ## 🛡 Pode Confiar
-[![godahtech](https://img.shields.io/endpoint?url=https%3A%2F%2Fgodahtech.com.br%2Fgodahshield.json%3Furl%3Dhttps%3A%2Fgodahtech.com.br%2F)](http://godahtech.com.br/) 
-[![Known Vulnerabilities](https://snyk.io/test/github/godoyrw/jquery-data-filter/badge.svg?targetFile=package.json)](https://snyk.io/test/github/godoyrw/jquery-data-filter?targetFile=package.json)
+[![godahtech](https://img.shields.io/endpoint?url=https%3A%2F%2Fgodahtech.com.br%2Fgodahshield.json%3Furl%3Dhttps%3A%2Fgodahtech.com.br%2F&style=flat-square)](http://godahtech.com.br/)
+[![Known Vulnerabilities](https://snyk.io/test/github/godoyrw/jquery-data-filter/badge.svg?targetFile=package.json&style=flat-square)](https://snyk.io/test/github/godoyrw/jquery-data-filter?targetFile=package.json)
 [![GitHub issues](https://img.shields.io/github/issues/godoyrw/jquery-data-filter?style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
-[![Build Status](https://travis-ci.com/godoyrw/jquery-data-filter.svg?branch=master)](https://travis-ci.com/godoyrw/jquery-data-filter)
-[![GitHub file size in bytes](https://img.shields.io/github/size/godoyrw/jquery-data-filter/dist/jquery-data-filter.1.0.9.min.js?label=size%20min.js&style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
-[![GitHub file size in bytes](https://img.shields.io/github/size/godoyrw/jquery-data-filter/dist/jquery-data-filter.1.0.9.min.js?style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
+[![Check Status](https://img.shields.io/github/checks-status/godoyrw/jquery-data-filter/master?color=%231ba982&style=flat-square)](https://github.com/godoyrw/jquery-data-filter)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/jquery-data-filter-js?color=%23f44336&style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/godoyrw/jquery-data-filter?color=%23f44336&style=flat-square)](https://github.com/godoyrw/jquery-data-filter)
 
 [![Website](https://img.shields.io/website?style=flat-square&url=http%3A%2F%2Fgodahtech.com.br)](http://godahtech.com.br/)
-![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/godoyrw/jquery-data-filter/jquery?style=flat-square)
+[![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/godoyrw/jquery-data-filter/jquery?style=flat-square)](https://www.npmjs.com/package/jquery)
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/godoyrw/jquery-data-filter?label=github%40latest&style=flat-square)](https://github.com/godoyrw/jquery-data-filter)
 [![npm](https://img.shields.io/npm/v/jquery-data-filter-js/latest?registry_uri=https%3A%2F%2Fregistry.npmjs.com%2Fjquery-data-filter-js&style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
-[![GitHub](https://img.shields.io/github/license/godoyrw/jquery-data-filter)](https://github.com/godoyrw/jquery-data-filter/blob/master/LICENSE) 
-[![npm](https://img.shields.io/npm/dt/jquery-data-filter-js?color=%23d01655&style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
+[![GitHub](https://img.shields.io/github/license/godoyrw/jquery-data-filter?&style=flat-square)](https://github.com/godoyrw/jquery-data-filter/blob/master/LICENSE) 
+[![npm](https://img.shields.io/npm/dy/jquery-data-filter-js?color=%23e91e63&style=flat-square)](https://www.npmjs.com/package/jquery-data-filter-js)
 
 ## 📦 Instalação
 
