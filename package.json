@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/godoyrw/jquery-data-filter#readme",
   "dependencies": {
-    "jquery": "^3.6.0"
+    "jquery": "^3.6.1"
   },
   "devDependencies": {}
 }
